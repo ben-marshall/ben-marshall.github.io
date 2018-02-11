@@ -20,6 +20,11 @@ p {
     text-align: justify;
 }
 
+#header {
+    float: right;
+    text-align: right;
+}
+
 #content {
     background-color: #FAFAFA;
     padding: 20px;
