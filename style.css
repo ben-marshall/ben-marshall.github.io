@@ -1,0 +1,44 @@
+
+body {
+    margin: 0px;
+    color: #333;
+    background-color: #DDD;
+    line-height: 1.6;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+a {
+    color: blue;
+}
+
+a:visited {
+    color: orange;
+}
+
+p {
+    text-align: justify;
+}
+
+#content {
+    background-color: #FAFAFA;
+    padding: 20px;
+    max-width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    border-right: 1px solid #CCC;
+    border-left: 1px solid #CCC;
+}
+
+.pet-project-title {
+    font-weight: 700;
+    display: block;
+    margin: 5px;
+    border-bottom: 1px solid #DDD;
+}
+
+.pet-project-description {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+}
