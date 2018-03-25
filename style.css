@@ -2,18 +2,9 @@
 body {
     margin: 0px;
     color: #333;
-    background-color: #86B6EC;
     line-height: 1.6;
     font-size: large;
     font-family: sans-serif;
-}
-
-a {
-    color: blue;
-}
-
-a:visited {
-    color: orange;
 }
 
 p {
@@ -26,7 +17,6 @@ p {
 }
 
 #content {
-    background-color: #FAFAFA;
     padding: 20px;
     max-width: 850px;
     margin-left: auto;
