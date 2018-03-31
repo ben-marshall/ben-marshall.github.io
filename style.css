@@ -9,11 +9,20 @@ body {
 
 p {
     text-align: justify;
+    text-indent: 2em;
 }
 
 #header {
     float: right;
     text-align: right;
+}
+
+#abstract {
+    width:70%;
+    margin-left:auto;
+    margin-right:auto;
+    font-size: smaller;
+    margin-bottom: 40px;
 }
 
 #content {
