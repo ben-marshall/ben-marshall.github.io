@@ -8,7 +8,7 @@ body {
 }
 
 p {
-    text-align: justify;
+    text-align: left;
     text-indent: 2em;
 }
 
@@ -27,11 +27,9 @@ p {
 
 #content {
     padding: 20px;
-    max-width: 850px;
+    max-width: 650px;
     margin-left: auto;
     margin-right: auto;
-    border-right: 1px solid #CCC;
-    border-left: 1px solid #CCC;
 }
 
 .pet-project-title {
