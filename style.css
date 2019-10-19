@@ -12,6 +12,10 @@ p {
     text-indent: 2em;
 }
 
+li {
+    margin-bottom: 15px;
+}
+
 #header {
     float: right;
     text-align: right;
